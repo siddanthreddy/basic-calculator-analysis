@@ -1,4 +1,4 @@
-### a very basic calculator made by me in C++
+### a very basic calculator made by in C++
 
 ## Features:
 - Additions
